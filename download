@@ -1,0 +1,4 @@
+SUPABASE_URL=https://pemtrbcqcywlwapzxrcg.supabase.co
+SUPABASE_KEY=sb_publishable_AadU-D5nsq0GbEk2qFG-Aw_3-DbNgXB
+PORT=3001
+FRONTEND_URL=http://localhost:5500
